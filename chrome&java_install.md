@@ -1,7 +1,7 @@
-Enter file contents here```sh
-    yum -y update             #apt-get update
-    yum install wget          #wget 설치
-    systemctl stop firewalld  
+```sh
+    yum -y update
+    yum install wget
+    systemctl stop firewalld
 ```
 
 [ yum을 이용하여 Chrome 브라우저 설치 ]
