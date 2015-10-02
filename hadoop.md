@@ -198,3 +198,10 @@
     hadoop fs -rmr /output   # output 디렉토리 삭제
     
 ```
+
+```sh
+# 결과 확인했을때 아래 오류 날수있음
+put: File /user/hadoop/input/test.txt._COPYING_ could only be replicated to 0 nodes instead of minReplication (=1).  There are 0 datanode(s) running and no node(s) are excluded in this operation.
+
+
+```
