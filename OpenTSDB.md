@@ -201,8 +201,8 @@ http://127.0.0.1:4242/api/query?start=2015/10/14-00:00:00&end=2015/10/14-08:19:4
    - 위에 데이터 입력 코드와 아래 기상청에서 온도 가져오는 코드를 활용하여 openTSDB에 데이터를 입력하세요
 ```sh
 
-yum install python-lxml   
-# yum install python-devel
+yum install python-lxml        #이놈하다가 오류나면 
+# yum install python-devel     #이놈 해본다음에
 
 # 실패시 다시 lxml 설치
 yum install python-lxml
