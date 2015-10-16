@@ -263,6 +263,7 @@ if __name__ == '__main__':
 
 	python weather_test.py
 ```
+-------------------------------------- 2015-10-16 까지-----------------------------------------------
 
 ### Tcollector Install
 Execution of one terminal anymore
