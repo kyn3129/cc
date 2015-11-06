@@ -29,3 +29,7 @@ while 1 :
                         }
                 ret = requests.post(url, data=json.dumps(data))
                 print "ok"
+
+
+10초마다 증가시키는 소스
+파이썬은 들여쓰기를 잘해야한다.
