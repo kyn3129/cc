@@ -1,4 +1,4 @@
-```
+
 ## Homework for Internship: Sentience
-``
+
 
