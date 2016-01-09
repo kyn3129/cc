@@ -22,4 +22,4 @@
 
 ###작업일지
 가상머신 : VMware WorkStation 12.1
-OS : CentOS7 - 64bit
+OS : CentOS6.7 - 64bit
